@@ -1,6 +1,9 @@
-**Dhruv Goyal** — Co-Founder & Design Head at [Zen-Z](https://zen-z.site), building and shipping real products end to end.<br>
-B.Tech CSE student at Jaipur National University ('28), based in Jaipur, India.<br>
-Open to Frontend / Full-Stack / Mobile internships.
+![Dhruv Goyal](https://raw.githubusercontent.com/dhruv-7808/dhruv-7808/main/assets/hero-banner.png)
+
+I'm the Co-Founder & Design Head at [Zen-Z](https://zen-z.site), where I design and build real products end to end — from the campus app students use every day to the admin dashboard that runs it.<br>
+B.Tech CSE student at Jaipur National University, Jaipur (Class of 2028, CGPA 9.0), mostly self-taught.<br>
+I build on my own outside Zen-Z too — Reel Count was designed and shipped solo in a week.<br>
+Open to Frontend / Full-Stack / Mobile internships, based in Jaipur, Rajasthan.
 
 ### Featured work
 
@@ -11,14 +14,14 @@ Open to Frontend / Full-Stack / Mobile internships.
 <br>
 <b>Zen-Z</b>: 150+ users in 2 days, 100+ downloads on Google Play. Campus meetup app — designed the complete booking UI/UX.
 <br>
-<a href="https://play.google.com/store/apps/details?id=com.campussocial.app">Play Store</a> · <a href="https://zen-z.site">Site</a> · <a href="https://dhruvgoyalportfolio-six.vercel.app/work/zen-z">Case study</a>
+<a href="https://play.google.com/store/apps/details?id=com.campussocial.app">Play Store</a> &middot; <a href="https://zen-z.site">Site</a> &middot; <a href="https://dhruvgoyalportfolio-six.vercel.app/work/zen-z">Case study</a>
 </td>
 <td width="50%" valign="top">
 <a href="https://dhruvgoyalportfolio-six.vercel.app/work/reel-count"><img src="https://raw.githubusercontent.com/dhruv-7808/dhruv-7808/main/assets/reelcount-banner.png" width="100%" alt="Reel Count"></a>
 <br>
 <b>Reel Count</b>: built solo in 1 week. Offline Android digital-wellbeing app (Kotlin, Jetpack Compose).
 <br>
-<a href="https://github.com/dhruv-7808/reel-count">Code</a> · <a href="https://dhruvgoyalportfolio-six.vercel.app/work/reel-count">Case study</a>
+<a href="https://github.com/dhruv-7808/reel-count">Code</a> &middot; <a href="https://dhruvgoyalportfolio-six.vercel.app/work/reel-count">Case study</a>
 </td>
 </tr>
 <tr>
@@ -27,14 +30,14 @@ Open to Frontend / Full-Stack / Mobile internships.
 <br>
 <b>zen-z.site</b>: hand-built, sticker-collage marketing site for Zen-Z. Designed the visuals and brand world end to end.
 <br>
-<a href="https://zen-z.site">Live</a> · <a href="https://dhruvgoyalportfolio-six.vercel.app/work/zen-z-site">Case study</a>
+<a href="https://zen-z.site">Live</a> &middot; <a href="https://dhruvgoyalportfolio-six.vercel.app/work/zen-z-site">Case study</a>
 </td>
 <td width="50%" valign="top">
 <a href="https://dhruvgoyalportfolio-six.vercel.app"><img src="https://raw.githubusercontent.com/dhruv-7808/dhruv-7808/main/assets/portfolio-banner.png" width="100%" alt="Portfolio"></a>
 <br>
 <b>Portfolio</b>: Next.js, TypeScript, Tailwind CSS and Motion. A phone cycles through real Zen-Z screens in the hero.
 <br>
-<a href="https://dhruvgoyalportfolio-six.vercel.app">Live</a> · <a href="https://github.com/dhruv-7808/portfolio">Code</a>
+<a href="https://dhruvgoyalportfolio-six.vercel.app">Live</a> &middot; <a href="https://github.com/dhruv-7808/portfolio">Code</a>
 </td>
 </tr>
 <tr>
@@ -43,7 +46,7 @@ Open to Frontend / Full-Stack / Mobile internships.
 <br>
 <b>SportX</b>: HTML, CSS, JavaScript. Sports e-commerce storefront built to practice frontend fundamentals.
 <br>
-<a href="https://sportx7.netlify.app">Live</a> · <a href="https://github.com/dhruv-7808/SportX">Code</a>
+<a href="https://sportx7.netlify.app">Live</a> &middot; <a href="https://github.com/dhruv-7808/SportX">Code</a>
 </td>
 </tr>
 </table>
@@ -54,4 +57,4 @@ Open to Frontend / Full-Stack / Mobile internships.
 
 ### Contact
 
-**[Portfolio](https://dhruvgoyalportfolio-six.vercel.app)** · **[LinkedIn](https://linkedin.com/in/dhruv-goyal-494991313)** · **[Email](mailto:dhruvgm78@gmail.com)** · **[Resume](https://dhruvgoyalportfolio-six.vercel.app/resume/Dhruv_Goyal_Resume.pdf)**
+**[Portfolio](https://dhruvgoyalportfolio-six.vercel.app)** &middot; **[LinkedIn](https://linkedin.com/in/dhruv-goyal-494991313)** &middot; **[Email](mailto:dhruvgm78@gmail.com)** &middot; **[Resume](https://dhruvgoyalportfolio-six.vercel.app/resume/Dhruv_Goyal_Resume.pdf)**
